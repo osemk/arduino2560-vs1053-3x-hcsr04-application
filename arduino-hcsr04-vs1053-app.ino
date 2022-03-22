@@ -1,4 +1,4 @@
-/* OSEMK Hangman Game in C.
+/* OSEMK Arduino HC-SR04 VS1053 application
    Copyright (C) 2022 Onur Erginer <https://onur.erginer.net/>
    This file is part of an open source license.
   */
